@@ -52,4 +52,4 @@ Analyze Olympic data to identify trends in medal distribution, country performan
 Data analysis helps uncover meaningful insights into global sports performance and trends.
 
 ## 🔗 Project Link
-(Add your GitHub repo link here)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhanushv282004/olympics-data-analysis/blob/main/olympics_analysis.ipynb)
